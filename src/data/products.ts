@@ -45,7 +45,7 @@ export const products: Product[] = [
   {
     id: "1",
     title: "iPhone 14 Pro Max 256GB",
-    price: 2800000,
+    price: 2,
     location: "Dar es Salaam",
     image: "https://images.unsplash.com/photo-1678685888221-cda773a3dcdb?w=400&h=400&fit=crop",
     description: "Brand new iPhone 14 Pro Max with 256GB storage. Deep Purple color. Comes with original charger and box. 1 year warranty included.",
